@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning..., C#, Unity, CNC  
 - 📫 I've done well a lot of different types of projects. 
 - CMS, Wordpress, Adobe Exeriance Manager AEM, Drupal, and some Sitecore.
-- some games 
+- a lot of banners, some games, VR. 
 - did a lot of Ad agency work these players: TBWA / Chiat Day, Goodby, JWT, Leo Burnett, Deutsch LA, Sid Lee, Crispen, well a lot.
 
 
