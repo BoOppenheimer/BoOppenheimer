@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BoOppenheimer
 - 👀 I’m interested in ... well all things geeky. Love React, Javascript, amazing AI stuff, 3d, visual effects great graphics, design, oh so much stuff to little time.
-- 🌱 I’m currently learning ... AEM, Java, CNC  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning..., C#, Unity, CNC  
+- 📫 I've done well a lot of different types of projects. 
+CMS, Wordpress, Adobe Exeriance Manager AEM, Drupal, and some Sitecore.
+
 
 <!---
 BoOppenheimer/BoOppenheimer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
