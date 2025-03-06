@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @BoOppenheimer
+- NOTE I don't often commit here. Unless doing some public project. 
 - 👀 I’m interested in ... well all things geeky. Love React, Javascript, amazing AI stuff, 3d, visual effects great graphics, design, oh so much stuff to little time.
 - 🌱 I’m currently learning..., C#, Unity, CNC  
 - 📫 I've done well a lot of different types of projects. 
