@@ -5,7 +5,7 @@
 - 📫 I've done well a lot of different types of projects. 
 - CMS, Wordpress, Adobe Exeriance Manager AEM, Drupal, and some Sitecore.
 - a lot of banners, some games, VR. 
-- did a lot of Ad agency work these players: TBWA / Chiat Day, Goodby, JWT, Leo Burnett, Deutsch LA, Sid Lee, Crispen, well a lot.
+- did a lot of Ad agency work. With these and lot of other players in the ad biz: TBWA / Chiat Day, Goodby, JWT, Leo Burnett, Deutsch LA, Sid Lee, Crispen, Leo burnett, and a lot of others.
 
 
 
